@@ -1,24 +1,24 @@
 /* This is my CSS code i used to stye my webpage. Hope you like how it looks. */
 *{
-  margin:0;
-  padding:0;
+margin:0;
+padding:0;
 }
 body {
-	background-image: linear-gradient(rgb(247, 170, 61), rgb(255, 239, 216));
+background-image: linear-gradient(rgb(247, 170, 61), rgb(255, 239, 216));
 }
 .logo {
 position: relative;
-  bottom: 840px;
-  left:50px;
+bottom: 840px;
+left:50px;
 }
 .img {
-  width: 100%;
-  margin: 0;
+width: 100%;
+margin: 0;
 }
 .header {
-  font-weight: bold;
-  font-family: Arial;
-  color: seagreen;
+font-weight: bold;
+font-family: Arial;
+color: seagreen;
 }
 .linkindex {
 text-align: left;
@@ -33,47 +33,47 @@ position: relative;
 bottom: 500px;
 }
 .par {
-  font-family: Arial;
-  text-align: center;
-  font-size: 18px;
+font-family: Arial;
+text-align: center;
+font-size: 18px;
 }
 .list {
-  font-family: Arial;
-  font-size: 18px;
+font-family: Arial;
+font-size: 18px;
 }
 .about {
-  padding: 30px;
-  background-color: rgba(239, 223, 182, 0.8);
-  position: relative;
-  bottom: 279px;
+padding: 30px;
+background-color: rgba(239, 223, 182, 0.8);
+position: relative;
+bottom: 279px;
 }
 .tips{
-  background-image: linear-gradient(to right, rgb(247, 170, 61), rgb(247, 170, 61), rgb(255, 219, 137), rgb(166, 186, 163), rgb(129, 163, 119));
-  position: relative;
-  bottom: 291px;
-  padding: 40px;
-  line-height: 25px;
-  margin: auto;
+background-image: linear-gradient(to right, rgb(247, 170, 61), rgb(247, 170, 61), rgb(255, 219, 137), rgb(166, 186, 163), rgb(129, 163, 119));
+position: relative;
+bottom: 291px;
+padding: 40px;
+line-height: 25px;
+margin: auto;
 }
 video {
-  width: 700px ;
-  height: 400px ;
-  position: relative;
-  bottom: 350px;
-  margin: auto;
-  padding: 0;
-  border-style: solid;
-  border-color: rgba(247, 170, 61,0.8);
-  border-width: 20px;
-  border-radius: 20px;
+width: 700px ;
+height: 400px ;
+position: relative;
+bottom: 350px;
+margin: auto;
+padding: 0;
+border-style: solid;
+border-color: rgba(247, 170, 61,0.8);
+border-width: 20px;
+border-radius: 20px;
 }
 #grad {
-  width:285px ;
-  height: 425px ;
-  position: relative;
-  bottom: 595px;
-  left: 950px;
-  margin-bottom: 0;
+width:285px ;
+height: 425px ;
+position: relative;
+bottom: 595px;
+left: 950px;
+margin-bottom: 0;
 }
 .footer {
 margin: auto;
@@ -83,7 +83,14 @@ line-height: 30px;
 background-color: lightgray;
 }
 audio {
-	position: relative;
-	top: 100px;
-	right: 300px;
+position: relative;
+top: 100px;
+right: 400px;
+}
+.cipher {
+padding: 30px;
+position: relative;
+bottom: 500px;
+line-height: 50px;
+font-family: Arial;
 }
