@@ -25,12 +25,14 @@ text-align: left;
 padding-left: 30px;
 position: relative;
 bottom: 300px;
+background-color: rgba(239, 223, 182, 0.8)
 }
 .linkabout {
 text-align: left;
 padding-left: 30px;
 position: relative;
 bottom: 500px;
+background-color: rgba(239, 223, 182, 0.8)
 }
 .par {
 font-family: Arial;
@@ -93,11 +95,12 @@ position: relative;
 bottom: 500px;
 line-height: 50px;
 font-family: Arial;
+background-color: rgba(239, 223, 182, 0.8)
 }
 .use {
-	font-family: Arial;
-	text-align: center;
-	position: relative;
-	bottom: 200 px;
+font-family: Arial;
+text-align: center;
+position: relative;
+bottom: 200 px;
 }
 	
