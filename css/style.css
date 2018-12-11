@@ -100,6 +100,7 @@ background-color: rgba(239, 223, 182, 0.8)
 .use {
 font-family: Arial;
 text-align: center;
+padding: 50px;
 position: relative;
 bottom: 200 px;
 font-size: 18px;
